@@ -3,23 +3,32 @@ body {
 }
 
 span {
-    width: 300px;
+    width: 20%;
     height: 1000px;
     display: inline-block;
+    vertical-align: top;
 }
 
 #red {
+    margin-top: 27vh;
     background-color: red;
 }
 
 #green {
+    margin-top: 20vh;
+    height: 900pt;
+    font-size: 2em;
     background-color: green;
-}
+}   
 
 #blue {
+    margin-top: 10vh;
+    height: 900pt;
+    font-size: 1.5rem;
     background-color: blue;
 }
 
 #purple {
+    width: 19vw;
     background-color: purple;
 }
